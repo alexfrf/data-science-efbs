@@ -1,0 +1,13 @@
+figure.figsize: 6, 4
+figure.titlesize : 22
+axes.titlesize : 22
+axes.labelsize : 18
+lines.linewidth : 3
+lines.markersize : 5
+xtick.labelsize : 14
+ytick.labelsize : 14
+font.family : serif
+font.style : normal
+font.variant : small-caps
+font.weight : normal
+font.size : 14
